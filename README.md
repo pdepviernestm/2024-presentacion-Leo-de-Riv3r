@@ -13,5 +13,5 @@ Hola, soy Leonardo Gutierrez, estudie en la Escuela tecnica Nª35 D.E 18, actual
 3. Comprender lo que hay detras de las lineas de codigo
 
 ### Imagen
-Aqui dejo un meme de una de las mejores sagas de videojuegos
 ![Metal gear](https://i.kym-cdn.com/photos/images/newsfeed/000/923/855/81b.gif)
+Aqui dejo un meme de una de las mejores sagas de videojuegos
